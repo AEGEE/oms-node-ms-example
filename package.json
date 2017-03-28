@@ -1,0 +1,25 @@
+{
+  "name": "oms-applications",
+  "version": "0.1.0",
+  "description": "Default application module",
+  "main": "lib/server.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AEGEE/oms-applications.git"
+  },
+  "author": "Nico Westerbeck",
+  "license": "ISC",
+  "homepage": "https://github.com/AEGEE/oms-applications#readme",
+  "dependencies": {
+    "bunyan": "^1.8.1",
+    "mongoose": "^4.4.20",
+    "promise": "^7.1.1",
+    "request": "^2.79.0",
+    "restify": "^4.1.0"
+  },
+  "devDependencies": {
+  }
+}

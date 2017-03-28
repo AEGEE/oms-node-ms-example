@@ -1,0 +1,5 @@
+{
+  "registry_url": "http://omsserviceregistry:7000",
+  "registry_api_key": "/usr/shared/new-api-key",
+  "servicename": "oms-applications"
+}
